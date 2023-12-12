@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_video">
+        <item>Upin Ipin al kisah hari raya</item>
+        <item>Upin Ipin lebaran</item>
+        <item>Upin Ipin kain perca</item>
+        <item>Tom n Jerry tahun ke tahun</item>
+        <item>Tom n Jerry Cheese</item>
+        <item>Tom n Jerry Musik</item>
+        <item>Cocomelon star</item>
+        <item>Cocomelon Baby Shark</item>
+        <item>Cocomelon Clean Up</item>
+        <item>Cocomelon Peekaboo</item>
+        <item>Masha n Bear Musik</item>
+        <item>Masha n Bear Tree</item>
+        <item>Masha n Bear Selfie</item>
+        <item>Masha n Bear Shortie</item>
+        <item>Spongeboob with Box</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>
+            Upin ipin adalah serial televisi animasi anak-anak yang dirilis pada 14 September 2007 di
+            Malaysia dan disiarkan di TV9. kartun ini bertujuan mendidik anak-anak biar lebih mengerti
+            tentang Ramadan. Kini, Upin Ipin sudah memiliki delapan musim tayang.
+        </item>
+        <item>
+            Upin ipin adalah serial televisi animasi anak-anak yang dirilis pada 14 September 2007 di
+            Malaysia dan disiarkan di TV9. kartun ini bertujuan mendidik anak-anak biar lebih mengerti
+            tentang Ramadan. Kini, Upin Ipin sudah memiliki delapan musim tayang.
+        </item>
+        <item>
+            Upin ipin adalah serial televisi animasi anak-anak yang dirilis pada 14 September 2007 di
+            Malaysia dan disiarkan di TV9. kartun ini bertujuan mendidik anak-anak biar lebih mengerti
+            tentang Ramadan. Kini, Upin Ipin sudah memiliki delapan musim tayang.
+        </item>
+        <item>
+            Tom and Jerry merupakan tokoh kartun dari serial animasi Amerika Serikat produksi MGM. Serial
+            kartun ini sudah hadir sejak 1940, mengkisahkan hubungan Tom (kucing) dan seekor tikus (Jerry),
+            yang selalu bertengkar. Dalam kehidupan nyata, kucing dan tikus merupakan predator dan mangsa.
+        </item>
+        <item>
+            Tom and Jerry merupakan tokoh kartun dari serial animasi Amerika Serikat produksi MGM. Serial
+            kartun ini sudah hadir sejak 1940, mengkisahkan hubungan Tom (kucing) dan seekor tikus (Jerry),
+            yang selalu bertengkar. Dalam kehidupan nyata, kucing dan tikus merupakan predator dan mangsa.
+        </item>
+        <item>
+            Tom and Jerry merupakan tokoh kartun dari serial animasi Amerika Serikat produksi MGM. Serial
+            kartun ini sudah hadir sejak 1940, mengkisahkan hubungan Tom (kucing) dan seekor tikus (Jerry),
+            yang selalu bertengkar. Dalam kehidupan nyata, kucing dan tikus merupakan predator dan mangsa.
+        </item>
+        <item>
+            Untuk diketahui bahwa CoComelon merupakan konten animasi tiga dimensi asal AS yang menceritakan
+            petualangan JJ bersama saudara-saudaranya. Konten tersebut disajikan dengan grafis, cerita, dan
+            lagu-lagu yang ceria untuk membantu anak belajar huruf, angka, suara binatang, hingga pelajaran
+            kehidupan.
+        </item>
+        <item>
+            Untuk diketahui bahwa CoComelon merupakan konten animasi tiga dimensi asal AS yang menceritakan
+            petualangan JJ bersama saudara-saudaranya. Konten tersebut disajikan dengan grafis, cerita, dan
+            lagu-lagu yang ceria untuk membantu anak belajar huruf, angka, suara binatang, hingga pelajaran
+            kehidupan.
+        </item>
+        <item>
+            Untuk diketahui bahwa CoComelon merupakan konten animasi tiga dimensi asal AS yang menceritakan
+            petualangan JJ bersama saudara-saudaranya. Konten tersebut disajikan dengan grafis, cerita, dan
+            lagu-lagu yang ceria untuk membantu anak belajar huruf, angka, suara binatang, hingga pelajaran
+            kehidupan.
+        </item>
+        <item>
+            Untuk diketahui bahwa CoComelon merupakan konten animasi tiga dimensi asal AS yang menceritakan
+            petualangan JJ bersama saudara-saudaranya. Konten tersebut disajikan dengan grafis, cerita, dan
+            lagu-lagu yang ceria untuk membantu anak belajar huruf, angka, suara binatang, hingga pelajaran
+            kehidupan.
+        </item>
+        <item>
+            Acara ini berfokus pada petualangan seorang gadis berhijab bernama Masha dan temannya yang peduli,
+            beruang (mishka) dan pasangan beruang betina (bertha) yang selalu menyelamatkannya dari bencana.
+        </item>
+        <item>
+            Acara ini berfokus pada petualangan seorang gadis berhijab bernama Masha dan temannya yang peduli,
+            beruang (mishka) dan pasangan beruang betina (bertha) yang selalu menyelamatkannya dari bencana.
+        </item>
+        <item>
+            Acara ini berfokus pada petualangan seorang gadis berhijab bernama Masha dan temannya yang peduli,
+            beruang (mishka) dan pasangan beruang betina (bertha) yang selalu menyelamatkannya dari bencana.
+        </item>
+        <item>
+            Acara ini berfokus pada petualangan seorang gadis berhijab bernama Masha dan temannya yang peduli,
+            beruang (mishka) dan pasangan beruang betina (bertha) yang selalu menyelamatkannya dari bencana.
+        </item>
+        <item>
+            Nama tokohnya berasal dari "Bob the Sponge", tuan rumah dari komik pendidikan Hilbert yang belum
+            diterbitkan. Komik tersebut bernama The Intertidal Zone. Ia menggambar komik tersebut saat
+            mengajar biologi kelautan kepada para pengunjung Ocean Institute sekitar tahun 1980-an.
+        </item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/kartun1</item>
+        <item>@raw/kartun2</item>
+        <item>@raw/kartun3</item>
+        <item>@raw/kartun4</item>
+        <item>@raw/kartun5</item>
+        <item>@raw/kartun6</item>
+        <item>@raw/kartun7</item>
+        <item>@raw/kartun8</item>
+        <item>@raw/kartun9</item>
+        <item>@raw/kartun10</item>
+        <item>@raw/kartun11</item>
+        <item>@raw/kartun12</item>
+        <item>@raw/kartun13</item>
+        <item>@raw/kartun14</item>
+        <item>@raw/kartun15</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/kartun1</item>
+        <item>@drawable/kartun2</item>
+        <item>@drawable/kartun3</item>
+        <item>@drawable/kartun4</item>
+        <item>@drawable/kartun5</item>
+        <item>@drawable/kartun6</item>
+        <item>@drawable/kartun7</item>
+        <item>@drawable/kartun8</item>
+        <item>@drawable/kartun9</item>
+        <item>@drawable/kartun10</item>
+        <item>@drawable/kartun11</item>
+        <item>@drawable/kartun12</item>
+        <item>@drawable/kartun13</item>
+        <item>@drawable/kartun14</item>
+        <item>@drawable/kartun15</item>
+
+    </integer-array>
+</resources>
